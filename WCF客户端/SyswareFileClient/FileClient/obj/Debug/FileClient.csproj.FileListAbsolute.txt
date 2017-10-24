@@ -1,0 +1,17 @@
+F:\下载\WCF客户端\SyswareFileClient\WF\bin\Debug\FileClient.exe.config
+F:\下载\WCF客户端\SyswareFileClient\WF\bin\Debug\FileClient.exe
+F:\下载\WCF客户端\SyswareFileClient\WF\bin\Debug\FileClient.pdb
+F:\下载\WCF客户端\SyswareFileClient\WF\obj\Debug\FileClient.Form1.resources
+F:\下载\WCF客户端\SyswareFileClient\WF\obj\Debug\FileClient.Properties.Resources.resources
+F:\下载\WCF客户端\SyswareFileClient\WF\obj\Debug\FileClient.csproj.GenerateResource.Cache
+F:\下载\WCF客户端\SyswareFileClient\WF\obj\Debug\FileClient.exe
+F:\下载\WCF客户端\SyswareFileClient\WF\obj\Debug\FileClient.pdb
+F:\下载\WCF客户端\SyswareFileClient\FileClient\bin\Debug\FileClient.exe.config
+F:\下载\WCF客户端\SyswareFileClient\FileClient\bin\Debug\FileClient.exe
+F:\下载\WCF客户端\SyswareFileClient\FileClient\bin\Debug\FileClient.pdb
+F:\下载\WCF客户端\SyswareFileClient\FileClient\obj\Debug\FileClient.csprojResolveAssemblyReference.cache
+F:\下载\WCF客户端\SyswareFileClient\FileClient\obj\Debug\FileClient.Form1.resources
+F:\下载\WCF客户端\SyswareFileClient\FileClient\obj\Debug\FileClient.Properties.Resources.resources
+F:\下载\WCF客户端\SyswareFileClient\FileClient\obj\Debug\FileClient.csproj.GenerateResource.Cache
+F:\下载\WCF客户端\SyswareFileClient\FileClient\obj\Debug\FileClient.exe
+F:\下载\WCF客户端\SyswareFileClient\FileClient\obj\Debug\FileClient.pdb

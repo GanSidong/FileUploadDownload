@@ -1,0 +1,6 @@
+C:\Users\gansd\documents\visual studio 2013\Projects\FileService\FileService\bin\Debug\FileService.dll.config
+C:\Users\gansd\documents\visual studio 2013\Projects\FileService\FileService\bin\Debug\FileService.dll
+C:\Users\gansd\documents\visual studio 2013\Projects\FileService\FileService\bin\Debug\FileService.pdb
+C:\Users\gansd\documents\visual studio 2013\Projects\FileService\FileService\obj\Debug\FileService.dll
+C:\Users\gansd\documents\visual studio 2013\Projects\FileService\FileService\obj\Debug\FileService.pdb
+C:\Users\gansd\Documents\Visual Studio 2013\Projects\FileService\FileService\obj\Debug\FileService.csprojResolveAssemblyReference.cache

@@ -1,0 +1,27 @@
+D:\Documents\Visual Studio 2012\Projects\WF\WF\bin\Debug\WF.exe.config
+D:\Documents\Visual Studio 2012\Projects\WF\WF\bin\Debug\WF.exe
+D:\Documents\Visual Studio 2012\Projects\WF\WF\bin\Debug\WF.pdb
+D:\Documents\Visual Studio 2012\Projects\WF\WF\obj\Debug\WF.Form1.resources
+D:\Documents\Visual Studio 2012\Projects\WF\WF\obj\Debug\WF.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\WF\WF\obj\Debug\WF.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\WF\WF\obj\Debug\WF.exe
+D:\Documents\Visual Studio 2012\Projects\WF\WF\obj\Debug\WF.pdb
+d:\documents\visual studio 2012\Projects\WF\WF\obj\Debug\WF.csprojResolveAssemblyReference.cache
+F:\下载\WCF文件简单上传服务器\WF\WF\bin\Debug\WF.exe.config
+F:\下载\WCF文件简单上传服务器\WF\WF\obj\Debug\WF.exe
+F:\下载\WCF文件简单上传服务器\WF\WF\obj\Debug\WF.pdb
+F:\下载\WCF文件简单上传服务器\WF\WF\bin\Debug\WF.exe
+F:\下载\WCF文件简单上传服务器\WF\WF\bin\Debug\WF.pdb
+F:\下载\WCF文件简单上传服务器\WF\WF\obj\Debug\WF.csprojResolveAssemblyReference.cache
+F:\下载\WCF文件简单上传服务器\WF\WF\obj\Debug\WF.Form1.resources
+F:\下载\WCF文件简单上传服务器\WF\WF\obj\Debug\WF.Properties.Resources.resources
+F:\下载\WCF文件简单上传服务器\WF\WF\obj\Debug\WF.csproj.GenerateResource.Cache
+F:\下载\WCF客户端\SyswareFileClient\WF\bin\Debug\WF.exe.config
+F:\下载\WCF客户端\SyswareFileClient\WF\obj\Debug\WF.exe
+F:\下载\WCF客户端\SyswareFileClient\WF\obj\Debug\WF.pdb
+F:\下载\WCF客户端\SyswareFileClient\WF\bin\Debug\WF.exe
+F:\下载\WCF客户端\SyswareFileClient\WF\bin\Debug\WF.pdb
+F:\下载\WCF客户端\SyswareFileClient\WF\obj\Debug\WF.Form1.resources
+F:\下载\WCF客户端\SyswareFileClient\WF\obj\Debug\WF.Properties.Resources.resources
+F:\下载\WCF客户端\SyswareFileClient\WF\obj\Debug\WF.csproj.GenerateResource.Cache
+F:\下载\WCF客户端\SyswareFileClient\WF\bin\Debug\FileClient.exe.config

@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2012\Projects\WF\WebApplication1\bin\WebApplication1.dll
+D:\Documents\Visual Studio 2012\Projects\WF\WebApplication1\bin\WebApplication1.pdb
+D:\Documents\Visual Studio 2012\Projects\WF\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Documents\Visual Studio 2012\Projects\WF\WebApplication1\obj\Debug\WebApplication1.pdb
+d:\documents\visual studio 2012\Projects\WF\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\下载\WCF文件简单上传服务器\WF\WebApplication1\bin\WebApplication1.dll.config
+F:\下载\WCF文件简单上传服务器\WF\WebApplication1\bin\WebApplication1.dll
+F:\下载\WCF文件简单上传服务器\WF\WebApplication1\bin\WebApplication1.pdb
+F:\下载\WCF文件简单上传服务器\WF\WebApplication1\obj\Debug\WebApplication1.dll
+F:\下载\WCF文件简单上传服务器\WF\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\下载\WCF文件简单上传服务器\WF\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache

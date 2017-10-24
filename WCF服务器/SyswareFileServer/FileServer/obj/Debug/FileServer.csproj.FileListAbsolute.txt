@@ -1,0 +1,11 @@
+F:\下载\WCF文件简单上传服务器\WF\WebApplication1\bin\FileServer.dll.config
+F:\下载\WCF文件简单上传服务器\WF\WebApplication1\bin\FileServer.dll
+F:\下载\WCF文件简单上传服务器\WF\WebApplication1\bin\FileServer.pdb
+F:\下载\WCF文件简单上传服务器\WF\WebApplication1\obj\Debug\FileServer.dll
+F:\下载\WCF文件简单上传服务器\WF\WebApplication1\obj\Debug\FileServer.pdb
+F:\下载\WCF服务器\SyswareFileServer\FileServer\bin\FileServer.dll.config
+F:\下载\WCF服务器\SyswareFileServer\FileServer\bin\FileServer.dll
+F:\下载\WCF服务器\SyswareFileServer\FileServer\bin\FileServer.pdb
+F:\下载\WCF服务器\SyswareFileServer\FileServer\obj\Debug\FileServer.csprojResolveAssemblyReference.cache
+F:\下载\WCF服务器\SyswareFileServer\FileServer\obj\Debug\FileServer.dll
+F:\下载\WCF服务器\SyswareFileServer\FileServer\obj\Debug\FileServer.pdb
